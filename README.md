@@ -9,3 +9,5 @@ To chat between two devices using the demo app, follow these steps:
 
 **Video Demonstration**  
 A screen recording is available to showcase the app’s features and guide you through the setup and messaging process. The video covers user selection, initiating a chat, and sending and receiving messages between devices.
+
+<video src="https://github.com/PinkeshGjr/RealTimeChat/blob/main/Video%20Recording.mov" width="600" height="400" controls></video>
